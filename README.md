@@ -25,7 +25,7 @@ export default ReactComponent
   ## Screenshots of Final Output
  
   - HomePage
-  ![HomePage](ScreenShots/HomePage.png)
+  ![HomePage](Screenshots/HomePage.png)
    
   - AboutPage 
-  ![CartPage](ScreenShots/cartpage.png) 
+  ![CartPage](Screenshots/cartpage.png) 
